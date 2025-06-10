@@ -23,7 +23,7 @@ use App\Http\Controllers\ProductController;
 |
 */
 Route::get('/', function () {
-    return view('home1');
+    return view('index');
 });
 
 // Route::get('/contact', function () {
